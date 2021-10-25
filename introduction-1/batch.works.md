@@ -1,8 +1,8 @@
 ---
 description: >-
-  Batch.works are aiming to create a realistic alternative to the wasteful
-  centralised manufacturing model, using 3D printers. Their ethos of producing
-  locally means that materials can easily be tracked
+  Here we use the example of Batch.works who are aiming to create a realistic
+  alternative to a wasteful centralised manufacturing model, using 3D printing.
+  In the exercise, we compare Batch.works to oth
 cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
@@ -15,23 +15,20 @@ coverY: 0
 2. [Who are Batch Works?](batch.works.md#who-are-batch-works)
 3. [Batch Basics](batch.works.md#batch-basics)
 4. [Case Study: Batch.shield visor](batch.works.md#case-study-batch.shield-visor)
-5. Exercise: Pen pot supply chains
-6. [Podcast](batch.works.md#podcast)
-7. [Resources](batch.works.md#resources)
+5. [Exercise: Pen pot supply chains](batch.works.md#exercise-pen-pot-supply-chains)
+6. [Resources](batch.works.md#resources)
 
 ## ​🎯Invitation
 
-By understanding how Batch.works operates, you can start to comprehend supply chains. By doing an exercise comparing several objects manufactured in different ways, you will start to understand the complexity of supply chains and manufaature.
+By understanding how Batch.works operates, you can start to comprehend supply chains. By doing an exercise comparing several objects manufactured in different ways, you will start to understand the complexity of supply chains and manufacture.
 
 &#x20;Start by looking at the three tabs below.
-
-
 
 {% tabs %}
 {% tab title="Inspiration" %}
 ## **♻️🛠 Who are Batch.works?**
 
-![Abbie and Harry from Snootie Studios](../.gitbook/assets/7615826d-a6cd-4f1a-a2f6-0d96834f9897.jpeg)
+![Julien and Milo from Batch.works](<../.gitbook/assets/london (1).jpg>)
 
 Batch.works is a **3D design** and **manufacturing** studio based in East London. We use **digital manufacturing technology** to develop **sustainable alternatives** to current wasteful methods of mass manufacture
 

@@ -13,8 +13,7 @@ coverY: 0
 1. [Invitation](material-experimentation.md#invitation)
 2. [Overview](material-experimentation.md#introduction)
 3. [Activity](material-experimentation.md#create-a-lab-book)
-4. [Podcast](material-experimentation.md#podcast)
-5. [Resources](material-experimentation.md#undefined)
+4. [Resources](material-experimentation.md#undefined)
 
 ## 🎯 Invitation <a href="invitation" id="invitation"></a>
 
@@ -46,7 +45,7 @@ The tools of Distributed Design are ambivalent to the materials put them and pro
 {% tab title="To Do" %}
 1. Read this section top to bottom first
 2. Listen to the Podcast
-3. Do the [Labbook activity](material-experimentation.md#type-suitability-activity)
+3. Do the [Lab book activity](material-experimentation.md#type-suitability-activity)
 4. Explore the resources
 {% endtab %}
 {% endtabs %}
