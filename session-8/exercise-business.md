@@ -4,53 +4,89 @@ description: >-
   Planet and Profit.
 ---
 
-# Exercise: Business models
+# Business models
 
-### Time needed
+## :dart: **Invitation**
 
-120 mins for the three part workshop
+Businesses have a huge impact on our world. By doing this exercise you can begin to understand the many ways that this can happen. Your projects will be richer and more dimensional with an understanding of the impact that a venture can achieve.
 
-### Purpose
+Start by looking at the three tabs below.
 
-Businesses have a huge impact on our world. This exercise is to begin to understand the many ways that this can happen. Student projects will be richer and more dimensional with an understanding of the impact that a venture can achieve.
+{% tabs %}
+{% tab title="About business" %}
+### What is a business?
 
-![An example of a completed Business Model Canvas (Miro link below)](<../.gitbook/assets/image (3).png>)
+A business can be many things:\
+An entity that sells something\
+An entity that generates profit\
+An entity that makes a product or sells a service.
 
-### Brief summary
+### What is a business model?
 
-In the first session we first introduce the concept of a business. We then move on to business models, and look at examples of interesting business models and the impact they have on the world.
+A business model is:\
+The way a business operates their plan\
+The structure through which a business makes money\
+They can exist for the benefit of the community
 
-We also introduce the idea of impact on People, Planet, Profit as a useful (if flawed) lens.
 
-The second session introduces Simone Sinek's [Start with Why](https://www.youtube.com/watch?v=MNSAolUgFYQ)
+{% endtab %}
 
-The third session introduces a simplified business model canvas.
+{% tab title="Examples of impact" %}
+### Examples of interesting business models
 
-By the end of these sessions the student should have a good understanding of how their projects (which are proto businesses) can affect the world.
+Toms shoes - for ever pair of shoes sold one is given away\
+A shop - buy cheaply and sell marked up products\
+Leasing model - e.g. electric battery\
+Printers and razors - make money on consumables
 
-### Spark
 
-?
 
-### Individual contribution
+### What do we mean by business impact?
 
-A conversation about business models
+The effect that a business has on the world
 
-In groups, choose a company and fill in the business model canvas.
+The idea of impact on [People, Planet, Profit](../distribute/people-planet-profit.md)
 
-### Facilitator intervention
+1. **People:** How you employ people, how your business activity affects a community. How the business is owned - employee-owned?
+2. ** Planet: **The environmental impact of your manufacturing or other business activities such as transport. Planting trees, carbon or biodiversity offsetting.
+3. **Profit:** Do you keep the money or share the money?
+{% endtab %}
 
-{% content-ref url="4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md" %}
-[business-models-notes-to-facilitator.md](4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
-{% endcontent-ref %}
+{% tab title="To Do" %}
+1. Read this section top to bottom first
+2. Do the [Type Suitability activity](exercise-business.md#type-suitability-activity)
+3. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)
+4.  Do the [Manifesto activity](../session-2/your-graphic-identity.md#making-your-manifesto)
+
+
+{% endtab %}
+{% endtabs %}
+
+## Simplified Business Model Canvas
+
+![Screenshot from Miro board](<../.gitbook/assets/image (31).png>)
+
+A **Business Model Canvas** helps you focus on your vision and break down how to achieve it, on a single clear page.
+
+This simplified layout (the original was by [Osterwalder and Pigneur](https://en.wikipedia.org/wiki/Business\_Model\_Canvas)), gives you a bird’s eye view of your activity to spark new ideas from a different perspective. It also enables collaborative discussions by helping to set out the key elements and showing how everything interrelates, particularly when related to social and environmental impact.
+
+The Miro board contains one example and one blank canvas. Go through the example with the group until the basic concepts are grasped, then divide the group into threes and give each group a task to fill in the canvas for a particular company.&#x20;
+
+A further stage can be added where students fill in the canvas for their current project.
+
+ct.
+
+{% embed url="https://miro.com/app/board/o9J_l87GJ9I=/" %}
+
+
+
+
+
+###
 
 ### Resources and References
 
 {% embed url="http://www.modelsofimpact.co/" %}
 
 {% embed url="https://en.wikipedia.org/wiki/Triple_bottom_line" %}
-
-{% embed url="https://www.youtube.com/watch?v=MNSAolUgFYQ" %}
-
-{% embed url="https://simonsinek.com/find-your-why/" %}
 

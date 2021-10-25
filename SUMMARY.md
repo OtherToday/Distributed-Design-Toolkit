@@ -50,10 +50,8 @@
 
 ## SESSION 8
 
-* [Exercise: Business models](session-8/exercise-business.md)
-* [DELETE](session-8/4.-business-models-and-distributed-design/README.md)
-  * [3. Simplified Business Model Canvas](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
-    * [1. All about Business Models](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
+* [Business models](session-8/exercise-business.md)
+* [3. Simplified Business Model Canvas](session-8/3.-simplified-business-model-canvas.md)
 
 ## SESSION 9
 
