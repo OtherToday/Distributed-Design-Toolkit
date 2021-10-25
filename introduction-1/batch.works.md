@@ -2,7 +2,6 @@
 description: >-
   Here we use the example of Batch.works who are aiming to create a realistic
   alternative to a wasteful centralised manufacturing model, using 3D printing.
-  In the exercise, we compare Batch.works to oth
 cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
