@@ -4,10 +4,11 @@
 
 * [Welcome/Purpose/Intention](README.md)
 * [What is Distributed Design?](introduction/what-is-distributed-design.md)
+* [3.Introduction to Orientation and Vision](introduction/about-the-discover-section.md)
 
 ## SESSION 1 <a href="introduction" id="introduction"></a>
 
-* [1. Batch.Works: An example of Distributed manufacture](introduction-1/batch.works.md)
+* [🏭 Supply Chains](introduction-1/batch.works.md)
 * [1 Start with why](introduction-1/exercise-start-with-why/README.md)
   * [1. Supply Chain of You](introduction-1/exercise-start-with-why/supply-chain-of-you.md)
 * [1. Make your space!](introduction-1/create-your-home-workshop.md)
@@ -18,63 +19,53 @@
 
 ## SESSION 3 <a href="orientation" id="orientation"></a>
 
+* [Planning for Uncertainty](orientation/tolerance-of-uncertainty.md)
 * [3. Pecha Kucha/ Loose Associations](orientation/loose-associations.md)
-* [3. Field Trips](orientation/field-trips.md)
 
 ## SESSION 4
 
 * [4. One Sheet](introduction/one-sheet-2/README.md)
   * [Template for One Sheet](introduction/one-sheet-2/one-sheet.md)
   * [Raf inspiration video](introduction/one-sheet-2/raf-inspiration-video.md)
+  * [Ideation (Raf)](session-4/one-sheet-2/ideation.md)
 * [4. Hand drawn supply chain](session-4/supply-chain-exercise.md)
 
 ## SESSION 5 <a href="distribute" id="distribute"></a>
 
-* [5. Exercise: Visioning a hopeful future](distribute/orientation-and-beginning-the-journey.md)
+* [5. Visit a recycling plant](distribute/field-trips.md)
 * [5.People, Planet, Profit](distribute/people-planet-profit.md)
 * [5 The UN Sustainable Development Goals (SDGs)](introduction/the-un-sustainable-development-goals-sdgs.md)
-
-***
-
-* [Design Probes (Milo)](design-probes-milo.md)
+* [5. Exercise: Visioning a hopeful future](distribute/orientation-and-beginning-the-journey.md)
 
 ## SESSION 6
 
-* [Page 1](session-6/page-1.md)
+* [🔬 Material Experimentation](session-6/material-experimentation.md)
+* [📷 Documenting your work](session-6/documenting-your-work-1.md)
 
-## HOMELESS PAGES
+## SESSION 7
 
-* [Futures](homeless-pages/futures/README.md)
-  * [Hype Cycle](homeless-pages/futures/hype-cycle.md)
-  * [Drivers of Change](homeless-pages/futures/drivers-of-change.md)
-  * [Thing from the future](homeless-pages/futures/thing-from-the-future.md)
-  * [Futures Wheel](homeless-pages/futures/futures-wheel.md)
-* [Ideation (Raf)](homeless-pages/ideation.md)
-* [Design Context](homeless-pages/design-context.md)
-* [📷 Documenting your work (Andrew)](homeless-pages/documenting-your-work-1.md)
-* [Exercise: Tear down > tool up](homeless-pages/tear-down-greater-than-tool-up.md)
-* [Modify](homeless-pages/modify.md)
-* [Make Works](homeless-pages/make-works.md)
-* [🔬 Material Experimentation](homeless-pages/material-experimentation.md)
-* [3.Introduction to Orientation and Vision](homeless-pages/about-the-discover-section.md)
+* [Make Works](session-7/make-works.md)
+* [Design Context](session-7/design-context.md)
 
-## SESSION 6
+## SESSION 8
 
-* [Exercise: Business models](session-6-1/exercise-business.md)
-* [6. Business models and distributed design](session-6-1/4.-business-models-and-distributed-design/README.md)
-  * [3. Simplified Business Model Canvas](session-6-1/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
-    * [1. All about Business Models](session-6-1/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
+* [Exercise: Business models](session-8/exercise-business.md)
+* [6. Business models and distributed design](session-8/4.-business-models-and-distributed-design/README.md)
+  * [3. Simplified Business Model Canvas](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
+    * [1. All about Business Models](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
+
+## SESSION 9
+
+* [Design Probes (Milo)](session-9/design-probes-milo.md)
+* [Futures](session-9/futures/README.md)
+  * [Hype Cycle](session-9/futures/hype-cycle.md)
+  * [Drivers of Change](session-9/futures/drivers-of-change.md)
+  * [Thing from the future](session-9/futures/thing-from-the-future.md)
+  * [Futures Wheel](session-9/futures/futures-wheel.md)
 
 ## EXAMPLES <a href="design" id="design"></a>
 
+* [Modify](design/modify.md)
 * [LAC](design/lac.md)
 * [Living Blocks](design/untitled-2.md)
-* [Planning for Uncertainty](design/tolerance-of-uncertainty.md)
 * [Plastic Kitchen](design/plastickitchen.md)
-
-## RESOURCES
-
-***
-
-* [Online Resources](online-resources.md)
-* [Page 2](page-2.md)

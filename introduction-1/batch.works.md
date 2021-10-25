@@ -5,7 +5,7 @@ description: >-
   locally means that materials can easily be tracked
 ---
 
-# 1. Batch.Works: An example of Distributed manufacture
+# 🏭 Supply Chains
 
 ## Contents
 
