@@ -5,7 +5,7 @@ description: >-
   Sleigh joins us to share his knowledge.
 ---
 
-# Documenting your work (Andrew)
+# 📷 Documenting your work (Andrew)
 
 ## Contents
 
@@ -24,7 +24,7 @@ Start by looking at the three tabs below.
 
 {% tabs %}
 {% tab title="Inspiration" %}
-## **🍏🍎  Who is Andrew Sleigh?**
+## **📷 💻 Who is Andrew Sleigh?**
 
 ****
 

@@ -51,7 +51,7 @@
   * [Futures Wheel](homeless-pages/futures/futures-wheel.md)
 * [Ideation (Raf)](homeless-pages/ideation.md)
 * [Design Context](homeless-pages/design-context.md)
-* [Documenting your work (Andrew)](homeless-pages/documenting-your-work-1.md)
+* [📷 Documenting your work (Andrew)](homeless-pages/documenting-your-work-1.md)
 * [Exercise: Tear down > tool up](homeless-pages/tear-down-greater-than-tool-up.md)
 * [Modify](homeless-pages/modify.md)
 * [Make Works](homeless-pages/make-works.md)
