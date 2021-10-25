@@ -1,6 +1,6 @@
 ---
 description: >-
-  Snootie studio takes us through the importance of graphic identity for
+  Snootie Studio takes us through the importance of graphic identity for
   Distributed Design projects
 cover: ../.gitbook/assets/git_header (3).png
 coverY: 0
@@ -18,8 +18,7 @@ coverY: 0
 6. [Colour](your-graphic-identity.md#colour)
 7. [Exercise: Colour Palette](your-graphic-identity.md#colour-palette-activity)
 8. [Making Your Manifesto](your-graphic-identity.md#making-your-manifesto)
-9. [Podcast](your-graphic-identity.md#podcast)
-10. [Snootie's Resources](your-graphic-identity.md#snooties-resources)
+9. [Snootie's Resources](your-graphic-identity.md#snooties-resources)
 
 ## ****:dart: **Invitation**
 
@@ -216,7 +215,7 @@ This exercise is to help you pick a suitable colour palette for yourself. Using 
 
 Creating a manifesto is a great way to not only express your approach as a designer, but to establish your graphic identity and explore the relationship between the two. &#x20;
 
-Using the copy you've already [developed](exercise-start-with-why/) in the Start with Why exercise, as well as the typefaces and colour scheme you picked earlier, compile them all together to make your very own manifesto. You can see a Pinterest board of Manifesto examples for inspiration further down this page.
+Using the copy you've already developed in the [Start with Why](exercise-start-with-why/) exercise, as well as the typefaces and colour scheme you picked earlier, compile them all together to make your very own manifesto. You can see a Pinterest board of Manifesto examples for inspiration further down this page.
 
 {% embed url="https://miro.com/app/board/o9J_lcpB2HM=/?invite_link_id=565027284694" %}
 
@@ -225,12 +224,6 @@ Using the copy you've already [developed](exercise-start-with-why/) in the Start
 {% embed url="https://pin.it/6qdY2ax" %}
 Manifesto inspiration mood board
 {% endembed %}
-
-## 👂 Podcast
-
-(Insert Podcast here)
-
-{% embed url="https://anchor.fm/gareth-owen-lloyd/episodes/Batch-Works-An-example-of-distributed-manufacture-e180tst" %}
 
 ## 📓 Snootie's Resources
 
