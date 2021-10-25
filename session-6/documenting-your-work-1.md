@@ -3,6 +3,8 @@ description: >-
   Documentation tells the story of why your product is interesting and gives
   others something to share further. In this section, designer and maker Andrew
   Sleigh joins us to share his knowledge.
+cover: ../.gitbook/assets/git_header (2).png
+coverY: 0
 ---
 
 # 📷 Documenting your work
@@ -125,6 +127,8 @@ This pen plotter was designed to be a replicable project, distributed through DI
 {% embed url="https://docs.google.com/document/d/1z9LTUSnsCzg3ukG-GRQVC3w-OHYxJg1u88qn6yv2NTU/edit#heading=h.m6m64wyno28o" %}
 
 
+
+![](<../.gitbook/assets/image (31).png>)
 
 
 

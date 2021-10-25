@@ -69,7 +69,7 @@ We can understand this through the idea of impact on [People, Planet, Profit](..
 
 ## Simplified Business Model Canvas
 
-![Screenshot from Miro board](<../.gitbook/assets/image (31).png>)
+![Screenshot from Miro board](<../.gitbook/assets/image (31) (1).png>)
 
 A **Business Model Canvas** helps you focus on your vision and break down how to achieve it, on a single clear page.
 
