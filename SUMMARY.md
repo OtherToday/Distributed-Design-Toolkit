@@ -28,6 +28,7 @@
   * [Template for One Sheet](introduction/one-sheet-2/one-sheet.md)
   * [Raf inspiration video](introduction/one-sheet-2/raf-inspiration-video.md)
   * [Ideation (Raf)](session-4/one-sheet-2/ideation.md)
+  * [Plastic Kitchen](session-4/one-sheet-2/plastickitchen.md)
 * [Hand drawn supply chain](session-4/supply-chain-exercise.md)
 
 ## SESSION 5 <a href="distribute" id="distribute"></a>
@@ -50,7 +51,7 @@
 ## SESSION 8
 
 * [Exercise: Business models](session-8/exercise-business.md)
-* [6. Business models and distributed design](session-8/4.-business-models-and-distributed-design/README.md)
+* [DELETE](session-8/4.-business-models-and-distributed-design/README.md)
   * [3. Simplified Business Model Canvas](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
     * [1. All about Business Models](session-8/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
 
@@ -62,10 +63,3 @@
   * [Drivers of Change](session-9/futures/drivers-of-change.md)
   * [Thing from the future](session-9/futures/thing-from-the-future.md)
   * [Futures Wheel](session-9/futures/futures-wheel.md)
-
-## EXAMPLES <a href="design" id="design"></a>
-
-* [Modify](design/modify.md)
-* [LAC](design/lac.md)
-* [Living Blocks](design/untitled-2.md)
-* [Plastic Kitchen](design/plastickitchen.md)
