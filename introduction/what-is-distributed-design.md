@@ -2,7 +2,7 @@
 description: An introduction to the concept of Distributed Design
 ---
 
-# What is Distributed Design?
+# 1. What is Distributed Design?
 
 #### CONTEXT
 
@@ -37,8 +37,8 @@ Distributed Design changes the entire nature of the way that goods are manufactu
 | Profit goes to shareholders of large companies                                        | Profit distributed across smaller organisations and individuals            |
 | Top down instruction from the top of the system                                       | Collaboration between nodes in the system                                  |
 
-{% content-ref url="../orientation/batch.works.md" %}
-[batch.works.md](../orientation/batch.works.md)
+{% content-ref url="batch.works.md" %}
+[batch.works.md](batch.works.md)
 {% endcontent-ref %}
 
 
