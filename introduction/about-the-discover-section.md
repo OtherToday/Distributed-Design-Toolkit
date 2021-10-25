@@ -5,7 +5,7 @@ description: >-
   is happening in the wider world.
 ---
 
-# 1a. Introduction to Orientation and Vision
+# 3.Introduction to Orientation and Vision
 
 To achieve a sustainable, fair, and just society together, we must be able to radically rethink our world. Complex environmental and social challenges are not static: they can’t simply be ‘fixed’. Rather than seeing our work as a ‘problem and solution’, we should start with a hopeful vision of what we want to achieve, and develop a clear mission from that.
 

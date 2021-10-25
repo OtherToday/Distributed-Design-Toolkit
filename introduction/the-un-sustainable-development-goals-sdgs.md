@@ -5,7 +5,7 @@ description: >-
   process.
 ---
 
-# 1e. The UN Sustainable Development Goals (SDGs)
+# 5 The UN Sustainable Development Goals (SDGs)
 
 ![](<../.gitbook/assets/image (21).png>)
 

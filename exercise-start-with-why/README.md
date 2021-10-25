@@ -5,9 +5,9 @@ description: >-
   drivers, and then to apply that to themselves.
 ---
 
-# 1b. Start with why
+# 3 Start with why
 
-#### \*\* need to add manifesto and elevator pitch\*\*
+
 
 #### INTRO TO START WITH WHY
 

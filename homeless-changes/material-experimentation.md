@@ -2,7 +2,7 @@
 description: >-
   Material researcher and designer Zoe Powell takes us through the importance of
   recording your material experimentation in Distributed Design
-cover: .gitbook/assets/ZP-for-DM-Carrageenan-and-Natural-Dyes-768x758.jpg
+cover: ../.gitbook/assets/ZP-for-DM-Carrageenan-and-Natural-Dyes-768x758.jpg
 coverY: 129.5802469135802
 ---
 
@@ -28,7 +28,7 @@ Start by looking at the three tabs below
 
 
 
-![](<.gitbook/assets/WhatsApp Image 2021-10-19 at 15.05.58.jpeg>)
+![](<../.gitbook/assets/WhatsApp Image 2021-10-19 at 15.05.58.jpeg>)
 
 Zoë Powell is a multi-disciplinary Designer-Maker, Researcher and Workshop Facilitator of Textiles and Biomaterials.
 

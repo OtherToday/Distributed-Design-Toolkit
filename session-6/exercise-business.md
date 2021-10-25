@@ -40,8 +40,8 @@ In groups, choose a company and fill in the business model canvas.
 
 ### Facilitator intervention
 
-{% content-ref url="business-models-notes-to-facilitator.md" %}
-[business-models-notes-to-facilitator.md](business-models-notes-to-facilitator.md)
+{% content-ref url="4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md" %}
+[business-models-notes-to-facilitator.md](4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
 {% endcontent-ref %}
 
 ### Resources and References
