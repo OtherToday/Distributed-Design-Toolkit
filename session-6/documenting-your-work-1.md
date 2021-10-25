@@ -10,8 +10,11 @@ description: >-
 ## Contents
 
 1. [Invitation](documenting-your-work-1.md#invitation)
-2. [Introduction](documenting-your-work-1.md#invitation)
-3. [Andrew's Resources](documenting-your-work-1.md#resources-references)
+2. [Introduction to Product Photography](documenting-your-work-1.md#introduction-to-product-photography)
+3. [Platforms for sharing your work](documenting-your-work-1.md#platforms-for-sharing-your-work.)
+4. [Some nice documentation examples](documenting-your-work-1.md#some-nice-documentation-examples)
+5. [Andrew's Plotter Project](documenting-your-work-1.md#andrews-plotter-project)
+6. [Making and Prototyping resources for Designers](documenting-your-work-1.md#making-and-prototyping-resources-for-designers)
 
 ## ****:dart: **Invitation**
 
@@ -61,7 +64,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 {% endtabs %}
 
-## Introduction
+## Introduction to Product Photography
 
 These three videos are designed to provide an introduction to product photography for absolute beginners. By experimenting with household items, we find ways of staging and lighting products to get pretty good results without spending any money.
 
@@ -73,9 +76,7 @@ There are also some ideas on how to take your lighting to the next level. Once y
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=8si9M_9NWOg" %}
 
-## Resources/References
-
-Platforms for sharing your work.
+## Platforms for sharing your work.
 
 {% embed url="https://github.com/" %}
 
@@ -85,11 +86,7 @@ Platforms for sharing your work.
 
 {% embed url="https://wikifactory.com/" %}
 
-### Some nice documentation examples
-
-#### Technical Journal, showing WiP: Jacob Stanton&#x20;
-
-### Reading list
+## Some nice documentation examples
 
 {% embed url="http://www.jacobstanton.com/3d-printed-hand-screw-clamp" %}
 This is a great example that shows technical development of a project prototype.
@@ -115,13 +112,15 @@ This short, fun read is a manifesto for _why_ you should document your work, and
 
 ####
 
-### Andrew's Plotter Project
+## Andrew's Plotter Project
 
 {% embed url="https://andrewsleigh.com/plotter" %}
 This pen plotter was designed to be a replicable project, distributed through DIY maker communities. By documenting the project in a variety of ways, from technical (BOMs, 3D CAD files) to non-technical (videos, motivations) Andrew was able to realise more value from the project and have greater impact than working alone.
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=Z99n9q5OYKk" %}
+
+## Making and Prototyping Resources for Designers
 
 {% embed url="https://docs.google.com/document/d/1z9LTUSnsCzg3ukG-GRQVC3w-OHYxJg1u88qn6yv2NTU/edit#heading=h.m6m64wyno28o" %}
 
