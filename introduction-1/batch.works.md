@@ -113,4 +113,6 @@ You can use the resources below to explore alternatives to traditional supply ch
 
 {% embed url="https://www.circulardesignguide.com/post/loops" %}
 
+{% embed url="https://www.nationalgeographic.org/activity/a-supply-chain" %}
+
 ![](../.gitbook/assets/gitfooter.png)
