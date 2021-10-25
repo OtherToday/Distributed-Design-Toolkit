@@ -16,14 +16,14 @@ Start by looking at the three tabs below.
 {% tab title="About business" %}
 ### What is a business?
 
-A business can be many things:\
+**A business can be many things:**\
 An entity that sells something\
 An entity that generates profit\
 An entity that makes a product or sells a service.
 
 ### What is a business model?
 
-A business model is:\
+**A business model is:**\
 The way a business operates their plan\
 The structure through which a business makes money\
 They can exist for the benefit of the community
@@ -34,18 +34,20 @@ They can exist for the benefit of the community
 {% tab title="Examples of impact" %}
 ### Examples of interesting business models
 
-Toms shoes - for ever pair of shoes sold one is given away\
-A shop - buy cheaply and sell marked up products\
-Leasing model - e.g. electric battery\
-Printers and razors - make money on consumables
+**Toms shoes **- for every pair of shoes sold, one is given away\
+**A shop **- buy cheaply and sell marked-up products\
+**Leasing model **- e.g. electric battery\
+**Printers and razors** - make money on consumables
 
+{% embed url="https://www.toms.com/uk" %}
 
+{% embed url="https://instantink.hpconnected.com/uk/en/l" %}
 
 ### What do we mean by business impact?
 
 The effect that a business has on the world
 
-The idea of impact on [People, Planet, Profit](../distribute/people-planet-profit.md)
+We can understand this through the idea of impact on [People, Planet, Profit](../distribute/people-planet-profit.md)
 
 1. **People:** How you employ people, how your business activity affects a community. How the business is owned - employee-owned?
 2. ** Planet: **The environmental impact of your manufacturing or other business activities such as transport. Planting trees, carbon or biodiversity offsetting.
@@ -53,14 +55,17 @@ The idea of impact on [People, Planet, Profit](../distribute/people-planet-profi
 {% endtab %}
 
 {% tab title="To Do" %}
-1. Read this section top to bottom first
-2. Do the [Type Suitability activity](exercise-business.md#type-suitability-activity)
-3. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)
-4.  Do the [Manifesto activity](../session-2/your-graphic-identity.md#making-your-manifesto)
+1.
+2. Read this section top to bottom first
+3. Do the [Type Suitability activity](exercise-business.md#type-suitability-activity)
+4. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)
+5.  Do the [Manifesto activity](../session-2/your-graphic-identity.md#making-your-manifesto)
 
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ## Simplified Business Model Canvas
 

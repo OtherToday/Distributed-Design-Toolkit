@@ -51,7 +51,6 @@
 ## SESSION 8
 
 * [Business models](session-8/exercise-business.md)
-* [3. Simplified Business Model Canvas](session-8/3.-simplified-business-model-canvas.md)
 
 ## SESSION 9
 

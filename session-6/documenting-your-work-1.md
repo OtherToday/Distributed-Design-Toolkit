@@ -11,8 +11,7 @@ description: >-
 
 1. [Invitation](documenting-your-work-1.md#invitation)
 2. [Introduction](documenting-your-work-1.md#invitation)
-3. Podcast
-4. Andrew's Resources
+3. [Andrew's Resources](documenting-your-work-1.md#resources-references)
 
 ## ****:dart: **Invitation**
 
@@ -30,9 +29,11 @@ Start by looking at the three tabs below.
 
 ![](../.gitbook/assets/DSC03179-sm2.jpeg)
 
-Andrew Sleigh is a designer and maker working in Brighton, UK. He is passionate about sharing your work; without it your project just exists on a desk in your studio.
+Andrew Sleigh is a designer and maker working in Brighton, UK. He is passionate about sharing your work; without sharing, your project just exists on a desk in your studio.
 
-He advocates building the documentation process into the design process as a form of reflective design process. His top tip: write notes, and take photos and videos as you work so you have all the assets you need when you want to share it.
+He advocates building the documentation process into the design process as a form of reflective design process.&#x20;
+
+**His top tip:** write notes, and take photos and videos as you work so you have all the assets you need when you want to share it.
 
 {% embed url="https://andrewsleigh.com" %}
 Andrew's personal website
@@ -54,21 +55,17 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [xxx](../session-2/exercise-start-with-why/) before this section
-2. Read this section top to bottom first
-3. Do the xxx
-4. Do the xxx
-5.  Do the xxx
-
-
+1. Read this section top to bottom first
+2. Watch the three videos
+3. Create your own documentation!
 {% endtab %}
 {% endtabs %}
 
 ## Introduction
 
-These 3 videos are designed to provide an introduction to product photography for absolute beginners. By experimenting with household items, we find ways of staging and lighting products to get pretty good results without spending any money.
+These three videos are designed to provide an introduction to product photography for absolute beginners. By experimenting with household items, we find ways of staging and lighting products to get pretty good results without spending any money.
 
-There are also some ideas on how to take your lighting to thenext level. Once you've mastered te basics, you'll be in a much beter position to know where to invest money, or what you need to focus on to improve.&#x20;
+There are also some ideas on how to take your lighting to the next level. Once you've mastered the basics, you'll be in a much better position to know where to invest money, or what you need to focus on to improve.&#x20;
 
 {% embed url="https://www.youtube.com/watch?t=51s&v=narXsEuGsA4" %}
 
@@ -94,49 +91,35 @@ Platforms for sharing your work.
 
 ### Reading list
 
-[http://www.jacobstanton.com/3d-printed-hand-screw-clamp/](http://www.jacobstanton.com/3d-printed-hand-screw-clamp/)
+{% embed url="http://www.jacobstanton.com/3d-printed-hand-screw-clamp" %}
+This is a great example that shows technical development of a project prototype.
+{% endembed %}
 
-GIFs (or short looping films) These are great examples that show key mechanisms – scroll about ⅔ down the page: http://www.jacobstanton.com/3d-printed-hand-screw-clamp/
-
-This whole page is a great example that shows technical development of a project prototype.
-
-Technical Journal / showing WiP Jacob Stanton, 3D Printed Hand-Screw Clamp. http://www.jacobstanton.com/3d-printed-hand-screw-clamp/ This whole page is a great example that shows technical development of a project prototype.
-
-#### Comic Strips, Graphic Novel Techniques: Soldering is Easy
-
-Comic Strips, graphic novel techniques Soldering is Easy, a comic book that will teach anyone the basics of soldering: https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/
+**GIFs (or short looping films) **See the Jacob Stanton page above for great examples – scroll about ⅔ down the page
 
 {% embed url="https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book" %}
+Soldering is Easy, a comic book that will teach anyone the basics of soldering:&#x20;
+{% endembed %}
 
-End-user instructions (if you’re making a product for user assembly, customisation, or distributed manufacture) How Ikea’s Assembly Instructions Champion Universal Design: https://magenta.as/how-ikeas-assembly-instructions-champion-universal-design-fe2710ab5c36
+{% embed url="https://magenta.as/how-ikeas-assembly-instructions-champion-universal-design-fe2710ab5c36" %}
+End-user instructions (if you’re making a product for user assembly, customisation, or distributed manufacture)
+{% endembed %}
 
-There are many different formats designers can use to share thir work. Here, they've made good use of an alternative format that breaks free of technical conventions.
+{% embed url="https://www.kickstarter.com/help/handbook/your_story?ref=handbook_index" %}
+Storytelling (integrating different media to communicate a design proposition) Kickstarter Creator Handbook:&#x20;
+{% endembed %}
 
-Storytelling (integrating different media to communicate a design proposition) Kickstarter Creator Handbook: https://www.kickstarter.com/help/handbook/your\_story?ref=handbook\_index
-
-#### End-user instructions: How Ikea’s Assembly Instructions Champion Universal Design
-
-[https://magenta.as/how-ikeas-assembly-instructions-champion-universal-design-fe2710ab5c36](https://magenta.as/how-ikeas-assembly-instructions-champion-universal-design-fe2710ab5c36)&#x20;
-
-If you’re making a product for user assembly, customisation, or distributed manufacture, you can do worse than study Ikea's end-user instrucions, and consider how the needs of instructions themselves impact the design of the physical product.
-
-#### Storytelling: Kickstarter Creator Handbook
-
-[https://www.kickstarter.com/help/handbook/your\_story?ref=handbook\_index](https://www.kickstarter.com/help/handbook/your\_story?ref=handbook\_index)
-
-Crowd-funding campaigns are a stress test for sucessfully integrating different media to communicate a design proposition.&#x20;
-
-#### Book: Show Your Work, by Austin Keon
-
-[https://austinkleon.com/show-your-work/](https://austinkleon.com/show-your-work/)
-
+{% embed url="https://austinkleon.com/show-your-work" %}
 This short, fun read is a manifesto for _why_ you should document your work, and a non-technical guide on _how_.
+{% endembed %}
+
+####
 
 ### Andrew's Plotter Project
 
-[https://andrewsleigh.com/plotter/](https://andrewsleigh.com/plotter/)
-
-This pen plotter was designed to be a replicable project, distributed through DIY maker communities. By documenting the project in a variety of ways, from technical (BOMs, 3D CAD files) to non-technical (videos, motivations) Andrew was able to realise more value from the project and have greater impact than working alone. &#x20;
+{% embed url="https://andrewsleigh.com/plotter" %}
+This pen plotter was designed to be a replicable project, distributed through DIY maker communities. By documenting the project in a variety of ways, from technical (BOMs, 3D CAD files) to non-technical (videos, motivations) Andrew was able to realise more value from the project and have greater impact than working alone.
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=Z99n9q5OYKk" %}
 
