@@ -55,7 +55,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [Start with Why](exercise-start-with-why/) before this section
+1. You need to have completed [Start with Why](../session-2/exercise-start-with-why/) before this section
 2. Read this section top to bottom first
 3. Do the [Type Suitability activity](batch.works.md#type-suitability-activity)
 4. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)

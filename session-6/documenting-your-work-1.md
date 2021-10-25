@@ -5,7 +5,7 @@ description: >-
   Sleigh joins us to share his knowledge.
 ---
 
-# 📷 Documenting your work (Andrew)
+# 📷 Documenting your work
 
 ## Contents
 
@@ -54,7 +54,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [xxx](../introduction-1/exercise-start-with-why/) before this section
+1. You need to have completed [xxx](../session-2/exercise-start-with-why/) before this section
 2. Read this section top to bottom first
 3. Do the xxx
 4. Do the xxx
