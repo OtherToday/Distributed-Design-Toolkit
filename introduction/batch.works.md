@@ -5,7 +5,7 @@ description: >-
   locally means that materials can easily be tracked
 ---
 
-# 1c. Batch.Works: An example of Distributed manufacture
+# 1. Batch.Works: An example of Distributed manufacture
 
 ## Contents
 
@@ -55,7 +55,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [Start with Why](exercise-start-with-why.md) before this section
+1. You need to have completed [Start with Why](../exercise-start-with-why.md) before this section
 2. Read this section top to bottom first
 3. Do the [Type Suitability activity](batch.works.md#type-suitability-activity)
 4. Do the [Colour Palette activity](your-graphic-identity.md#colour-palette-activity)
