@@ -3,6 +3,8 @@ description: >-
   Batch.works are aiming to create a realistic alternative to the wasteful
   centralised manufacturing model, using 3D printers. Their ethos of producing
   locally means that materials can easily be tracked
+cover: ../.gitbook/assets/git_header (2).png
+coverY: 0
 ---
 
 # 🏭 Supply Chains
@@ -117,11 +119,7 @@ This exercise is to help you start to understand supply chains. Using the Miro t
 Needs to be redone
 {% endembed %}
 
-## 👂 Podcast
 
-{% embed url="https://anchor.fm/gareth-owen-lloyd/episodes/Batch-Works-An-example-of-distributed-manufacture-e180tst" %}
-Needs to be checked
-{% endembed %}
 
 ## :toolbox: Resources
 
@@ -130,3 +128,4 @@ You can use the resources below to explore alternatives to traditional supply ch
 {% embed url="https://www.circulardesign.it/design-for-x/#Reuse" %}
 
 {% embed url="https://www.circulardesignguide.com/post/loops" %}
+
