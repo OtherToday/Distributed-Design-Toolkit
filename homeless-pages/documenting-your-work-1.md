@@ -54,7 +54,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [xxx](../exercise-start-with-why/) before this section
+1. You need to have completed [xxx](../introduction/exercise-start-with-why/) before this section
 2. Read this section top to bottom first
 3. Do the xxx
 4. Do the xxx

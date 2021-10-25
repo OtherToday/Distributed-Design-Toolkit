@@ -1,4 +1,4 @@
-# Supply Chain of You
+# 1. Supply Chain of You
 
 Where are you from?
 
@@ -8,7 +8,7 @@ What fuels you?
 
 Where do you want to go?
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 {% embed url="https://miro.com/app/board/o9J_kiq7KP4=/" %}
 

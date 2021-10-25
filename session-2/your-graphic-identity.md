@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/git_header (3).png
 coverY: 0
 ---
 
-# Graphic Identity
+# 🎯Graphic Identity
 
 ## Contents
 
@@ -51,7 +51,7 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [Start with Why](../exercise-start-with-why/) before this section
+1. You need to have completed [Start with Why](../introduction/exercise-start-with-why/) before this section
 2. Read this section top to bottom first
 3. Do the [Type Suitability activity](your-graphic-identity.md#type-suitability-activity)
 4. Do the [Colour Palette activity](your-graphic-identity.md#colour-palette-activity)
@@ -216,7 +216,7 @@ This exercise is to help you pick a suitable colour palette for yourself. Using 
 
 Creating a manifesto is a great way to not only express your approach as a designer, but to establish your graphic identity and explore the relationship between the two. &#x20;
 
-Using the copy you've already [developed](../exercise-start-with-why/) in the Start with Why exercise, as well as the typefaces and colour scheme you picked earlier, compile them all together to make your very own manifesto. You can see a Pinterest board of Manifesto examples for inspiration further down this page.
+Using the copy you've already [developed](../introduction/exercise-start-with-why/) in the Start with Why exercise, as well as the typefaces and colour scheme you picked earlier, compile them all together to make your very own manifesto. You can see a Pinterest board of Manifesto examples for inspiration further down this page.
 
 {% embed url="https://miro.com/app/board/o9J_lcpB2HM=/?invite_link_id=565027284694" %}
 
