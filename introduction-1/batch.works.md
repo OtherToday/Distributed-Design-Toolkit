@@ -129,3 +129,4 @@ You can use the resources below to explore alternatives to traditional supply ch
 
 {% embed url="https://www.circulardesignguide.com/post/loops" %}
 
+![](../.gitbook/assets/gitfooter.png)

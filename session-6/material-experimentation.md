@@ -2,8 +2,8 @@
 description: >-
   Material researcher and designer Zoe Powell takes us through the importance of
   recording your material experimentation in Distributed Design
-cover: ../.gitbook/assets/ZP-for-DM-Carrageenan-and-Natural-Dyes-768x758.jpg
-coverY: 129.5802469135802
+cover: ../.gitbook/assets/git_header (2).png
+coverY: 0
 ---
 
 # 🔬 Material Experimentation
@@ -77,9 +77,7 @@ A lab book..
 
 {% embed url="https://miro.com/app/board/o9J_lpCl8A4=?invite_link_id=762418024056" %}
 
-## 🔊Podcast
 
-{% embed url="https://anchor.fm/gareth-owen-lloyd/episodes/Batch-Works-An-example-of-distributed-manufacture-e180tst" %}
 
 ## 📔References&#x20;
 
@@ -96,3 +94,5 @@ A lab book..
 
 {% endtab %}
 {% endtabs %}
+
+![](<../.gitbook/assets/image (30).png>)
