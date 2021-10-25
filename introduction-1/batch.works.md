@@ -13,7 +13,7 @@ coverY: 0
 
 1. [Invitation](batch.works.md#invitation)
 2. [Who are Batch Works?](batch.works.md#who-are-batch-works)
-3. [Batch Basics](batch.works.md#batch-basics)
+3. [Glossary](batch.works.md#introduction)
 4. [Case Study: Batch.shield visor](batch.works.md#case-study-batch.shield-visor)
 5. [Exercise: Pen pot supply chains](batch.works.md#exercise-pen-pot-supply-chains)
 6. [Resources](batch.works.md#resources)
@@ -42,31 +42,19 @@ Batch.works website
 {% endtab %}
 
 {% tab title="Purpose" %}
-In Distributed Design the way you communicate your project is as important as the product itself. Makers of our designs encounter them as instructions and recipes hosted and shared online.&#x20;
-
-We want consumers/ citizens to choose Distributed Designs over mass-produced products. A strong graphic identity for the designer and brand for the product is key to this desirability.&#x20;
-
-The purpose of this section of the toolkit is&#x20;
-
-* To understand graphic identity
-* To choose suitable fonts and colours
-* To apply them to a manifesto that conveys your personal position
+Every object has its own story of how it was made. Raw materials were obtained, processed and transported to other locations, where further processing happened depending on the product being made. Each of these stages required water, energy, people, chemicals or other inputs. Many of these stages created waste. By looking at the story of each object, you can start to understand the impact that each object makes, and learn how to design in a more creative and efficient way.
 {% endtab %}
 
 {% tab title="To Do" %}
-1. You need to have completed [Start with Why](../session-2/exercise-start-with-why/) before this section
-2. Read this section top to bottom first
-3. Do the [Type Suitability activity](batch.works.md#type-suitability-activity)
-4. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)
-5.  Do the [Manifesto activity](../session-2/your-graphic-identity.md#making-your-manifesto)
-
-
+1. Read this page from top to bottom
+2. Do the Pen Pot exercise
+3. Look at other object you see around you now and consider how they are made
 {% endtab %}
 {% endtabs %}
 
 
 
-## :package: Introduction
+## :package: Glossary
 
 What are the core elements of Distributed Design?
 
