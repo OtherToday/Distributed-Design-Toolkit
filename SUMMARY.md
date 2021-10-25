@@ -1,14 +1,16 @@
 # Table of contents
 
+## INTRODUCTION
+
 * [Welcome/Purpose/Intention](README.md)
 * [What is Distributed Design?](introduction/what-is-distributed-design.md)
 
 ## SESSION 1 <a href="introduction" id="introduction"></a>
 
-* [1. Batch.Works: An example of Distributed manufacture](introduction/batch.works.md)
-* [1 Start with why](introduction/exercise-start-with-why/README.md)
-  * [1. Supply Chain of You](introduction/exercise-start-with-why/supply-chain-of-you.md)
-* [1. Make your space!](introduction/create-your-home-workshop.md)
+* [1. Batch.Works: An example of Distributed manufacture](introduction-1/batch.works.md)
+* [1 Start with why](introduction-1/exercise-start-with-why/README.md)
+  * [1. Supply Chain of You](introduction-1/exercise-start-with-why/supply-chain-of-you.md)
+* [1. Make your space!](introduction-1/create-your-home-workshop.md)
 
 ## SESSION 2
 
@@ -16,9 +18,8 @@
 
 ## SESSION 3 <a href="orientation" id="orientation"></a>
 
-***
-
-* [2. Pecha Kucha/ Loose Associations](loose-associations.md)
+* [3. Pecha Kucha/ Loose Associations](orientation/loose-associations.md)
+* [3. Field Trips](orientation/field-trips.md)
 
 ## SESSION 4
 
@@ -31,12 +32,15 @@
 
 * [5. Exercise: Visioning a hopeful future](distribute/orientation-and-beginning-the-journey.md)
 * [5.People, Planet, Profit](distribute/people-planet-profit.md)
-* [5. Field Trips](distribute/field-trips.md)
 * [5 The UN Sustainable Development Goals (SDGs)](introduction/the-un-sustainable-development-goals-sdgs.md)
 
 ***
 
 * [Design Probes (Milo)](design-probes-milo.md)
+
+## SESSION 6
+
+* [Page 1](session-6/page-1.md)
 
 ## HOMELESS PAGES
 
@@ -56,10 +60,10 @@
 
 ## SESSION 6
 
-* [Exercise: Business models](session-6/exercise-business.md)
-* [6. Business models and distributed design](session-6/4.-business-models-and-distributed-design/README.md)
-  * [3. Simplified Business Model Canvas](session-6/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
-    * [1. All about Business Models](session-6/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
+* [Exercise: Business models](session-6-1/exercise-business.md)
+* [6. Business models and distributed design](session-6-1/4.-business-models-and-distributed-design/README.md)
+  * [3. Simplified Business Model Canvas](session-6-1/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/README.md)
+    * [1. All about Business Models](session-6-1/4.-business-models-and-distributed-design/3.-simplified-business-model-canvas/business-models-notes-to-facilitator.md)
 
 ## EXAMPLES <a href="design" id="design"></a>
 
@@ -73,3 +77,4 @@
 ***
 
 * [Online Resources](online-resources.md)
+* [Page 2](page-2.md)
