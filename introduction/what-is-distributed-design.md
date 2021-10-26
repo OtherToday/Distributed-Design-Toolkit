@@ -4,6 +4,8 @@ description: An introduction to the concept of Distributed Design
 
 # What is Distributed Design?
 
+![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
+
 #### CONTEXT
 
 The emergence of Industry 4.0, the global shift away from fossil fuels, the climate crisis, overconsumption and wealth centralisation have all raised questions about the nature and culture of the products we buy. Distributed Design explores alternatives to mass production and the linear consumption models of Industrialisation. It focuses on the movement of data (bits not atoms), the use of local material supply chains and digital fabrication, as an alternative way of moving materials and goods from producer to consumer.&#x20;
@@ -28,9 +30,8 @@ We promote an an ecosystemic approach to both online and offline tools which can
 
 Distributed Design changes the entire nature of the way that goods are manufactured and transported.&#x20;
 
-| Centralised design and manufacture                                                    | Distributed Design                                                         |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Manufactured in several countries on the opposite side of the world from the consumer | Manufactured within several miles of the consumer                          |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Manufactured by people who are often poorly treated                                   | Manufactured by local makers                                               |
 | Delivered to the consumer through extensive logistics chain e.g. Amazon               | Delivered to the consumer by cargo bike, local post or personal collection |
 | Intellectual property is owned by a central company                                   | Open-source design                                                         |

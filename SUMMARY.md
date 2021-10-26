@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-* [Welcome/Purpose/Intention](README.md)
+* [🧰 The Toolkit](README.md)
 * [What is Distributed Design?](introduction/what-is-distributed-design.md)
 * [Introduction to Orientation and Vision](introduction/about-the-discover-section.md)
 
@@ -15,7 +15,7 @@
 
 * [Start with why](session-2/exercise-start-with-why/README.md)
   * [1. Supply Chain of You](session-2/exercise-start-with-why/supply-chain-of-you.md)
-* [🎯Graphic Identity](session-2/your-graphic-identity.md)
+* [🎯 Design Identity](session-2/your-graphic-identity.md)
 
 ## SESSION 3 <a href="orientation" id="orientation"></a>
 
