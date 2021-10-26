@@ -9,8 +9,8 @@
 
 * [〰 Supply Chain of Me](direction/supply-chain-of-me.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
+* [〰 Design Identity](direction/your-graphic-identity.md)
 * [Make your space!](direction/create-your-home-workshop.md)
-* [🎯 Design Identity](direction/your-graphic-identity.md)
 * [Planning for Uncertainty](direction/tolerance-of-uncertainty.md)
 * [People, Planet, Profit](direction/people-planet-profit.md)
 * [The UN Sustainable Development Goals (SDGs)](direction/the-un-sustainable-development-goals-sdgs.md)

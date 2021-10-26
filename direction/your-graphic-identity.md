@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/git_header (3).png
 coverY: 0
 ---
 
-# 🎯 Design Identity
+# 〰 Design Identity
 
 ## Contents
 
