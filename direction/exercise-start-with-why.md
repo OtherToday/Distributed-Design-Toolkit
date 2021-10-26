@@ -2,13 +2,55 @@
 description: >-
   Your purpose is the cause or belief that drives us all. Knowing this helps
   designers choose the right projects to work on.
+cover: ../.gitbook/assets/git_header (2).png
+coverY: 0
 ---
 
 # 〰 Finding Purpose
 
-### Start With Why
+## ​🎯**Invitation**
 
-Leaders who have had the greatest influence in the world all think, act, and communicate the same way, and it's the opposite of what everyone else does. Simon Sinek calls this idea The Golden Circle, and it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.
+Take inspiration from the work of Simon Sinek to develop your own 'why statement'. Through a series of activities, you will explore the  idea of The Golden Circle and how it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.
+
+Start by looking at the three tabs below.
+
+{% tabs %}
+{% tab title="Inspiration" %}
+## **What is the Golden Circle?**
+
+Simon Sinek presents a simple but powerful model for how leaders inspire action, starting with a golden circle and the question "Why?" His examples include Apple, Martin Luther King, and the Wright brothers**.**
+
+&#x20;
+
+{% embed url="https://youtu.be/qp0HIF3SfI4" %}
+
+{% embed url="https://simonsinek.com/find-your-why-book-resources" %}
+{% endtab %}
+
+{% tab title="Purpose" %}
+In Distributed Design the way you communicate your project is as important as the product itself. Makers of our designs encounter them as instructions and recipes hosted and shared online.&#x20;
+
+We want consumers/ citizens to choose Distributed Designs over mass-produced products. A strong graphic identity for the designer and brand for the product is key to this desirability.&#x20;
+
+The purpose of this section of the toolkit is&#x20;
+
+* To understand graphic identity
+* To choose suitable fonts and colours
+* To apply them to a manifesto that conveys your personal position
+{% endtab %}
+
+{% tab title="To Do" %}
+1. You need to have completed [Start with Why](exercise-start-with-why.md) before this section
+2. Read this section top to bottom first
+3. Do the [Type Suitability activity](exercise-start-with-why.md#type-suitability-activity)
+4. Do the [Colour Palette activity](your-graphic-identity.md#colour-palette-activity)
+5.  Do the [Manifesto activity](your-graphic-identity.md#making-your-manifesto)
+
+
+{% endtab %}
+{% endtabs %}
+
+##
 
 ![Redrawn from Simon Sinek's Golden Circle](<../.gitbook/assets/image (30).png>)
 
