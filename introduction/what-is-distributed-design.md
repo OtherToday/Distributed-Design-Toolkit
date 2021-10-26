@@ -2,7 +2,7 @@
 description: An introduction to the concept of Distributed Design
 ---
 
-# What is Distributed Design?
+# ❓What is Distributed Design?
 
 ![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
 
@@ -30,13 +30,14 @@ We promote an an ecosystemic approach to both online and offline tools which can
 
 Distributed Design changes the entire nature of the way that goods are manufactured and transported.&#x20;
 
-| Manufactured in several countries on the opposite side of the world from the consumer | Manufactured within several miles of the consumer                          |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Manufactured by people who are often poorly treated                                   | Manufactured by local makers                                               |
-| Delivered to the consumer through extensive logistics chain e.g. Amazon               | Delivered to the consumer by cargo bike, local post or personal collection |
-| Intellectual property is owned by a central company                                   | Open-source design                                                         |
-| Profit goes to shareholders of large companies                                        | Profit distributed across smaller organisations and individuals            |
-| Top down instruction from the top of the system                                       | Collaboration between nodes in the system                                  |
+|                           Centralised design and manufacture                          |                             Distributed Design                             |
+| :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Manufactured in several countries on the opposite side of the world from the consumer |              Manufactured within several miles of the consumer             |
+|                  Manufactured by people who are often poorly treated                  |                        Manufactured by local makers                        |
+|        Delivered to the consumer through extensive logistics chain e.g. Amazon        | Delivered to the consumer by cargo bike, local post or personal collection |
+|                  Intellectual property is owned by a central company                  |                             Open-source design                             |
+|                     Profit goes to shareholders of large companies                    |       Profit distributed across smaller organisations and individuals      |
+|                    Top down instruction from the top of the system                    |                  Collaboration between nodes in the system                 |
 
 {% content-ref url="../introduction-1/batch.works.md" %}
 [batch.works.md](../introduction-1/batch.works.md)

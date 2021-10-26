@@ -3,8 +3,7 @@
 ## INTRODUCTION
 
 * [🧰 The Toolkit](README.md)
-* [What is Distributed Design?](introduction/what-is-distributed-design.md)
-* [Introduction to Orientation and Vision](introduction/about-the-discover-section.md)
+* [❓What is Distributed Design?](introduction/what-is-distributed-design.md)
 
 ## SESSION 1 <a href="introduction" id="introduction"></a>
 
