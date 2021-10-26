@@ -1,73 +1,44 @@
 # Table of contents
 
-## INTRODUCTION
+## 🧰 INTRODUCTION
 
-* [🧰 The Toolkit](README.md)
-* [❓What is Distributed Design?](introduction/what-is-distributed-design.md)
+* [〰 The Toolkit](README.md)
+* [〰 Distributed Design?](introduction/what-is-distributed-design.md)
 
 ## 🎯 Direction
 
-* [D](direction/d.md)
-
-## 📦 Distribution
-
-* [Page 2](distribution/page-2.md)
-
-## SESSION 1 <a href="introduction" id="introduction"></a>
-
-* [🏭 Supply Chains](introduction-1/batch.works.md)
-* [Make your space!](introduction-1/create-your-home-workshop.md)
+* [Start with why](direction/exercise-start-with-why/README.md)
+  * [1. Supply Chain of You](direction/exercise-start-with-why/supply-chain-of-you.md)
+* [Make your space!](direction/create-your-home-workshop.md)
+* [🎯 Design Identity](direction/your-graphic-identity.md)
+* [Planning for Uncertainty](direction/tolerance-of-uncertainty.md)
+* [People, Planet, Profit](direction/people-planet-profit.md)
+* [The UN Sustainable Development Goals (SDGs)](direction/the-un-sustainable-development-goals-sdgs.md)
+* [Exercise: Visioning a hopeful future](direction/orientation-and-beginning-the-journey.md)
+* [Futures](direction/futures/README.md)
+  * [Hype Cycle](direction/futures/hype-cycle.md)
+  * [Drivers of Change](direction/futures/drivers-of-change.md)
+  * [Thing from the future](direction/futures/thing-from-the-future.md)
+  * [Futures Wheel](direction/futures/futures-wheel.md)
 
 ## ✏ DESIGN
 
-* [Page 1](design/page-1.md)
+* [Visit a recycling plant](design/field-trips.md)
+* [Pecha Kucha/ Loose Associations](design/loose-associations.md)
+* [One Sheet](design/one-sheet-2/README.md)
+  * [Template for One Sheet](design/one-sheet-2/one-sheet.md)
+  * [Raf inspiration video](design/one-sheet-2/raf-inspiration-video.md)
+  * [Ideation (Raf)](design/one-sheet-2/ideation.md)
+  * [Plastic Kitchen](design/one-sheet-2/plastickitchen.md)
+  * [Hand drawn supply chain](design/one-sheet-2/supply-chain-exercise.md)
+* [Modify](design/modify.md)
+* [🔬 Material Experimentation](design/material-experimentation.md)
+* [📷 Documenting your work](design/documenting-your-work-1.md)
+* [Make Works](design/make-works.md)
+* [Design Context](design/design-context.md)
+* [Design Probes (Milo)](design/design-probes-milo.md)
 
-## SESSION 2
+## 📦 Distribution
 
-* [Start with why](session-2/exercise-start-with-why/README.md)
-  * [1. Supply Chain of You](session-2/exercise-start-with-why/supply-chain-of-you.md)
-* [🎯 Design Identity](session-2/your-graphic-identity.md)
-
-## SESSION 3 <a href="orientation" id="orientation"></a>
-
-* [Planning for Uncertainty](orientation/tolerance-of-uncertainty.md)
-* [Pecha Kucha/ Loose Associations](orientation/loose-associations.md)
-
-## SESSION 4
-
-* [One Sheet](introduction/one-sheet-2/README.md)
-  * [Template for One Sheet](introduction/one-sheet-2/one-sheet.md)
-  * [Raf inspiration video](introduction/one-sheet-2/raf-inspiration-video.md)
-  * [Ideation (Raf)](session-4/one-sheet-2/ideation.md)
-  * [Plastic Kitchen](session-4/one-sheet-2/plastickitchen.md)
-* [Hand drawn supply chain](session-4/supply-chain-exercise.md)
-
-## SESSION 5 <a href="distribute" id="distribute"></a>
-
-* [Visit a recycling plant](distribute/field-trips.md)
-* [People, Planet, Profit](distribute/people-planet-profit.md)
-* [The UN Sustainable Development Goals (SDGs)](introduction/the-un-sustainable-development-goals-sdgs.md)
-* [Exercise: Visioning a hopeful future](distribute/orientation-and-beginning-the-journey.md)
-
-## SESSION 6
-
-* [🔬 Material Experimentation](session-6/material-experimentation.md)
-* [📷 Documenting your work](session-6/documenting-your-work-1.md)
-
-## SESSION 7
-
-* [Make Works](session-7/make-works.md)
-* [Design Context](session-7/design-context.md)
-
-## SESSION 8
-
-* [Business models](session-8/exercise-business.md)
-
-## SESSION 9
-
-* [Design Probes (Milo)](session-9/design-probes-milo.md)
-* [Futures](session-9/futures/README.md)
-  * [Hype Cycle](session-9/futures/hype-cycle.md)
-  * [Drivers of Change](session-9/futures/drivers-of-change.md)
-  * [Thing from the future](session-9/futures/thing-from-the-future.md)
-  * [Futures Wheel](session-9/futures/futures-wheel.md)
+* [🏭 Supply Chains](distribution/batch.works.md)
+* [Business models](distribution/exercise-business.md)
