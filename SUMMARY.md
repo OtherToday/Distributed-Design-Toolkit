@@ -7,8 +7,8 @@
 
 ## 🎯 Direction
 
-* [Start with why](direction/exercise-start-with-why/README.md)
-  * [1. Supply Chain of You](direction/exercise-start-with-why/supply-chain-of-you.md)
+* [〰 Supply Chain of Me](direction/supply-chain-of-me.md)
+* [Start with why](direction/exercise-start-with-why.md)
 * [Make your space!](direction/create-your-home-workshop.md)
 * [🎯 Design Identity](direction/your-graphic-identity.md)
 * [Planning for Uncertainty](direction/tolerance-of-uncertainty.md)
