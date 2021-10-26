@@ -47,7 +47,7 @@ The tools of Distributed Design are ambivalent to the materials put them and pro
 {% tab title="To Do" %}
 1. Read this section top to bottom first
 2. Do the [Lab book activity](material-experimentation.md#type-suitability-activity)
-3. Explore the resources
+3. Explore the resources and downloadable files
 {% endtab %}
 {% endtabs %}
 
@@ -73,7 +73,27 @@ An experiment is an official or established way of discovering or testing or dem
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Analysis" %}
 
+{% endtab %}
+
+{% tab title="Data" %}
+
+{% endtab %}
+
+{% tab title="Hypothesis" %}
+
+{% endtab %}
+
+{% tab title="Quantitative" %}
+
+{% endtab %}
+
+{% tab title="Qualitative" %}
+
+{% endtab %}
+{% endtabs %}
 
 ## ✏Create a Lab book
 
@@ -81,7 +101,7 @@ An experiment is an official or established way of discovering or testing or dem
 
 ## Downloads 📚
 
-#### Lab books - basic and detailed for DD
+#### Lab books - basic and detailed templates for DD Toolkit
 
 {% file src="../.gitbook/assets/LBBK .pdf" %}
 
@@ -91,7 +111,7 @@ An experiment is an official or established way of discovering or testing or dem
 Here are 5 variations of lab book templates. These were inspired by real examples of lab book pages and digital templates. (Special thank you to Matthew Edwards, Mathew Gale and Tshepo Mangoele for sharing their lab book pages)
 {% endfile %}
 
-#### Material Exploration - Lab books -  Further reading (TBC!!!!!!)
+#### Material Exploration - Lab books -  Further reading ( VERSION 1 TO EDIT )
 
 {% file src="../.gitbook/assets/Lab book.pdf" %}
 
@@ -125,9 +145,11 @@ _A pan-African database of circular and sustainable projects. Inputs include ind
 _Discover Materials_ is a collaboration between a group of UK Universities' Materials Science Departments, the Henry Royce Institute for advanced materials and other members of the materials science community.
 {% endembed %}
 
-#### Simbioticas Lab
+#### Simbioticas Lab (Uruguay - español)
 
-
+{% embed url="https://www.instagram.com/simbioticas_lab" %}
+Colectivo de diseñadoras e investigadoras de materiales fomentamos el desarrollo de una nueva cultura material, de diseño sustentable y biodiseño 🌿
+{% endembed %}
 
 #### Biobox
 

@@ -5,10 +5,22 @@
 * [🧰 The Toolkit](README.md)
 * [❓What is Distributed Design?](introduction/what-is-distributed-design.md)
 
+## 🎯 Direction
+
+* [D](direction/d.md)
+
+## 📦 Distribution
+
+* [Page 2](distribution/page-2.md)
+
 ## SESSION 1 <a href="introduction" id="introduction"></a>
 
 * [🏭 Supply Chains](introduction-1/batch.works.md)
 * [Make your space!](introduction-1/create-your-home-workshop.md)
+
+## ✏ DESIGN
+
+* [Page 1](design/page-1.md)
 
 ## SESSION 2
 
