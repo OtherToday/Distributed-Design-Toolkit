@@ -199,4 +199,4 @@ Fabricademy is a transdisciplinary course that focuses on the development of new
 
 
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)

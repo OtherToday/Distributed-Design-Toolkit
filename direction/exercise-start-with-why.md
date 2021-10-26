@@ -1,25 +1,16 @@
 ---
 description: >-
-  The WHY is the purpose, cause or belief that drives us all. This exercise
-  enables students to understand how different organisations have different
-  drivers, and then to apply that to themselves.
+  Your purpose is the cause or belief that drives us all. Knowing this helps
+  designers choose the right projects to work on.
 ---
 
-# Start with why
+# 〰 Finding Purpose
 
+### Start With Why
 
+Leaders who have had the greatest influence in the world all think, act, and communicate the same way, and it's the opposite of what everyone else does. Simon Sinek calls this idea The Golden Circle, and it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.
 
-#### INTRO TO START WITH WHY
-
-Simon Sinek's _Start With Why_ shows that the leaders who've had the greatest influence in the world all think, act, and communicate the same way -- and it's the opposite of what everyone else does. Sinek calls this powerful idea The Golden Circle, and it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.
-
-![Simon Sinek's Start with Why diagram](<../.gitbook/assets/image (19).png>)
-
-####
-
-#### [https://miro.com/app/board/o9J\_lnqZaII=/?invite\_link\_id=693778593582](https://miro.com/app/board/o9J\_lnqZaII=/?invite\_link\_id=693778593582)
-
-#### [https://miro.com/app/board/o9J\_lnqZaII=/?invite\_link\_id=693778593582](https://miro.com/app/board/o9J\_lnqZaII=/?invite\_link\_id=693778593582)
+![Redrawn from Simon Sinek's Golden Circle](<../.gitbook/assets/image (30).png>)
 
 ####
 
