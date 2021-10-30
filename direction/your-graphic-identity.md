@@ -1,7 +1,8 @@
 ---
 description: >-
   Snootie Studio takes us through the importance of graphic identity for
-  Distributed Design projects
+  Distributed Design projects. Through a series of activities, you will explore
+  colour and type and apply them to your own manifest
 cover: ../.gitbook/assets/git_header (3).png
 coverY: 0
 ---
@@ -22,7 +23,7 @@ coverY: 0
 
 ## ****:dart: **Invitation**
 
-Take inspiration from the work of Snootie studio to develop your own graphic identity. Through a series of activities, you will explore colour and type and apply them to your own manifesto, drawing from interests and beliefs derived from earlier sections.&#x20;
+Take inspiration from the work of Snootie studio to develop your own graphic identity.&#x20;
 
 Start by looking at the three tabs below.
 

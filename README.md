@@ -12,12 +12,6 @@ It features four guest resources from inspiring design studios covering [manifes
 
 This toolkit is intended to grow and distributed design educators are invited to add to it. It is intended to be seen as an additional resource to other design methods out there such as [design thinking](https://www.designkit.org) and [circular design](https://www.circulardesignguide.com)
 
-## Technology
-
-Distributed Design has its origins in the citizen-led maker movement and as such this toolkit sits in the context of countless online tutorials for open source and open access technologies; throughout the toolkit we point to links where some of these can be found.&#x20;
-
-We believe that technological skills are best self taught by doing and this toolkit does not have any digital fabrication or workshop tutorials. Instead this toolkit focuses on core concepts and approaches needed in distributed design.&#x20;
-
 ## Structure
 
 The toolkit is split into three thematic sections, **Direction**, **Design** and **Distribution**. The content can be approached in any order, for example you may want to start by learning about supply chains (a part of distribution) while at the same time developing values (in direction)

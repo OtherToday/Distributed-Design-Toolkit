@@ -12,8 +12,7 @@
 * [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
 * [📢 Manifesto + Identity](direction/your-graphic-identity.md)
-* [Planning](direction/tolerance-of-uncertainty.md)
-* [Sustainability](direction/people-planet-profit.md)
+* [〰 People Planet Profit](direction/people-planet-profit.md)
 * [Futures](direction/futures.md)
 
 ## ✏ DESIGN
@@ -26,6 +25,7 @@
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
 * [〰 Brief: Modify](design/brief-modify.md)
 * [🔬 Experiment + Record](design/experiment-+-record.md)
+* [Technology](design/technology.md)
 
 ## 📦 Distribution
 
