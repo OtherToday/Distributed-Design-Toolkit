@@ -12,7 +12,7 @@
 * [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
 * [📢 Manifesto + Identity](direction/your-graphic-identity.md)
-* [〰 People Planet Profit](direction/people-planet-profit.md)
+* [〰 Sustainability](direction/people-planet-profit.md)
 * [Futures](direction/futures.md)
 
 ## ✏ DESIGN
