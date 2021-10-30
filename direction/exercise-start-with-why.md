@@ -140,3 +140,5 @@ Here’s how Simon Sinek expresses his WHY:
 
 
 {% embed url="https://miro.com/app/board/o9J_lUpp1Vo=?invite_link_id=227373490260" %}
+
+![](../.gitbook/assets/gitfooter.png)

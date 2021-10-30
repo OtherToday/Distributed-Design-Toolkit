@@ -49,7 +49,7 @@ Design is the "How" of a project and in distributed design this phase should fol
 ‘Distribution’ in Distributed Design refers to several things
 
 * firstly exploring alternative ways of getting products to people such as sending data, using local materials and making them with digital fabrication instead of shipping materials and goods globally from factory to consumer.
-* Secondly the distribution of value, knowledge and power as Kate Raworth argues a new economy is required that is regenerative and re-distributive by design. This toolkit looks at alternative business models and the open sourcing of instructions and sharing of learning through publishing lab books, and methods online.
+* Secondly the distribution of value, knowledge and power as Kate Raworth argues; a new economy is required that is regenerative and re-distributive by design. This toolkit looks at alternative business models and the open sourcing of instructions and sharing of learning through publishing lab books, and methods online.
 * Thirdly the distribution of material in circular flows considering a material’s life cycle. This toolkit encourages design for the next use and the use of pre-used materials in new products.
 
 

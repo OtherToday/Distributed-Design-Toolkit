@@ -1,5 +1,7 @@
 ---
 description: An introduction to the concept of Distributed Design
+cover: ../.gitbook/assets/git_header (2).png
+coverY: 0
 ---
 
 # 〰 Distributed Design?
@@ -44,5 +46,7 @@ Distributed Design changes the entire nature of the way that goods are manufactu
 {% endcontent-ref %}
 
 
+
+![](../.gitbook/assets/gitfooter.png)
 
 ####

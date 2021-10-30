@@ -229,7 +229,7 @@ Manifesto inspiration mood board
 
 {% tabs %}
 {% tab title="Read" %}
-[Don't Get a Job, Make a Job by Gem Barton:](https://b-ok.cc/book/3685757/ea581e) Hopefully it’s not too outdated now, but it chats about people who bend the rules of the ‘traditional’ way of working in design.
+[Don't Get a Job, Make a Job by Gem Barton:](https://b-ok.cc/book/3685757/ea581e) chats about people who bend the rules of the ‘traditional’ way of working in design.
 
 [Creativity is not a Competition:](https://reckascabinetofcuriosity.com/2020/10/21/creativity-is-not-a-competition/) An article by an old classmate of mine about remembering why you want to be a designer and putting your rivalries aside.&#x20;
 

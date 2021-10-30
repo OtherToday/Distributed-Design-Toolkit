@@ -42,3 +42,7 @@
 
 * [🏭 Supply Chains](distribution/batch.works.md)
 * [Business models](distribution/exercise-business.md)
+
+***
+
+* [Welcome file](welcome-file.md)
