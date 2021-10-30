@@ -13,18 +13,16 @@
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
 * [📢 Manifesto + Identity](direction/your-graphic-identity.md)
 * [〰 Sustainability](direction/people-planet-profit.md)
-* [Futures](direction/futures.md)
 
 ## ✏ DESIGN
 
-* [〰 Field trips + mapping](design/field-trips.md)
-* [Design Context](design/design-context.md)
+* [🔬 Experiment + Record](design/experiment-+-record.md)
+* [〰 Design Context](design/design-context.md)
 * [〰 Divergent research](design/loose-associations.md)
 * [〰 Immersive research](design/design-probes-milo.md)
 * [Ideation (Raf)](design/ideation.md)
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
 * [〰 Brief: Modify](design/brief-modify.md)
-* [🔬 Experiment + Record](design/experiment-+-record.md)
 * [Technology](design/technology.md)
 
 ## 📦 Distribution
