@@ -8,7 +8,7 @@ coverY: 0
 
 The toolkit has been developed from [Other Today](https://www.other.today)’s teaching on the [Distributed Design Studio](https://wikifactory.com/+othertodaystudio) at [Brighton University](https://www.brighton.ac.uk/courses/study/product-design-with-professional-experience-bsc-hons.aspx) and has been developed with the support of the [Distributed Design Platform](https://distributeddesign.eu), co-funded by the[ Creative Europe Program](https://ec.europa.eu/culture/creative-europe) of the European Union.&#x20;
 
-It features four guest resources from inspiring design studios covering [manifestos](direction/your-graphic-identity.md#making-your-manifesto), [bio materials](design/material-experimentation.md#contents), [batch production](distribution/batch.works.md#contents) and [DIY documentation](design/documenting-your-work-1.md#contents).
+It features four guest resources from inspiring design studios covering [manifestos](direction/your-graphic-identity.md#making-your-manifesto), [bio materials](design/experiment-+-record.md#contents), [batch production](introduction/batch.works.md#contents) and [DIY documentation](distribution/documenting-your-work-1.md#contents).
 
 This toolkit is intended to grow and distributed design educators are invited to add to it. It is intended to be seen as an additional resource to other design methods out there such as [design thinking](https://www.designkit.org) and [circular design](https://www.circulardesignguide.com)
 

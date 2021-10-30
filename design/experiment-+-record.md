@@ -6,14 +6,14 @@ cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
 
-# 🔬 Material Experimentation
+# 🔬 Experiment + Record
 
 ## Contents
 
-1. [Invitation](material-experimentation.md#invitation)
-2. [Overview](material-experimentation.md#introduction)
-3. [Activity](material-experimentation.md#create-a-lab-book)
-4. [Resources](material-experimentation.md#undefined)
+1. [Invitation](experiment-+-record.md#invitation)
+2. [Overview](experiment-+-record.md#introduction)
+3. [Activity](experiment-+-record.md#create-a-lab-book)
+4. [Resources](experiment-+-record.md#undefined)
 
 ## 🎯 Invitation <a href="invitation" id="invitation"></a>
 
@@ -46,7 +46,7 @@ The tools of Distributed Design are ambivalent to the materials put them and pro
 
 {% tab title="To Do" %}
 1. Read this section top to bottom first
-2. Do the [Lab book activity](material-experimentation.md#type-suitability-activity)
+2. Do the [Lab book activity](experiment-+-record.md#type-suitability-activity)
 3. Explore the resources and downloadable files
 {% endtab %}
 {% endtabs %}

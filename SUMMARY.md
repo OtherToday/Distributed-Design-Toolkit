@@ -4,13 +4,14 @@
 
 * [〰 The Toolkit](README.md)
 * [〰 Distributed Design?](introduction/what-is-distributed-design.md)
+* [🏭    Supply Chains](introduction/batch.works.md)
 
 ## 🎯 Direction
 
 * [〰 Orientation](direction/orientation.md)
 * [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
-* [〰 Design Identity](direction/your-graphic-identity.md)
+* [📢 Manifesto + Identity](direction/your-graphic-identity.md)
 * [Planning](direction/tolerance-of-uncertainty.md)
 * [Sustainability](direction/people-planet-profit.md)
 * [Futures](direction/futures.md)
@@ -26,16 +27,15 @@
   * [Plastic Kitchen](design/one-sheet-2/plastickitchen.md)
   * [Hand drawn supply chain](design/one-sheet-2/supply-chain-exercise.md)
 * [Modify](design/modify.md)
-* [🔬 Material Experimentation](design/material-experimentation.md)
-* [📷 Documenting your work](design/documenting-your-work-1.md)
+* [🔬 Experiment + Record](design/experiment-+-record.md)
 * [Make Works](design/make-works.md)
 * [Design Context](design/design-context.md)
 * [Design Probes (Milo)](design/design-probes-milo.md)
 
 ## 📦 Distribution
 
-* [🏭 Supply Chains](distribution/batch.works.md)
 * [Business models](distribution/exercise-business.md)
+* [📷 Documenting + Sharing](distribution/documenting-your-work-1.md)
 
 ***
 
