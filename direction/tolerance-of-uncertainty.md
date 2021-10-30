@@ -1,5 +1,2 @@
-# Planning for Uncertainty
+# Planning
 
-[https://thedesignsquiggle.com/](https://thedesignsquiggle.com)
-
-{% file src="../.gitbook/assets/Fish Allegory.pdf" %}

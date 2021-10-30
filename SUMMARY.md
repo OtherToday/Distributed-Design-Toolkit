@@ -11,15 +11,9 @@
 * [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
 * [〰 Design Identity](direction/your-graphic-identity.md)
-* [Make your space!](direction/create-your-home-workshop.md)
-* [Planning for Uncertainty](direction/tolerance-of-uncertainty.md)
-* [People, Planet, Profit](direction/people-planet-profit.md)
-* [The UN Sustainable Development Goals (SDGs)](direction/the-un-sustainable-development-goals-sdgs.md)
-* [Futures](direction/futures/README.md)
-  * [Hype Cycle](direction/futures/hype-cycle.md)
-  * [Drivers of Change](direction/futures/drivers-of-change.md)
-  * [Thing from the future](direction/futures/thing-from-the-future.md)
-  * [Futures Wheel](direction/futures/futures-wheel.md)
+* [Planning](direction/tolerance-of-uncertainty.md)
+* [Sustainability](direction/people-planet-profit.md)
+* [Futures](direction/futures.md)
 
 ## ✏ DESIGN
 
