@@ -34,6 +34,8 @@ Before you start, you need to make your space. In distributed design we think wi
 
 ## ✏Activity 2: Hand drawn supply chain
 
+To understand the bigger system in which our work sits we need to consider the history, the societal values and assumptions of that system. Activities like supply chain mapping help us see the wider view.&#x20;
+
 Choose an product personal to you or simply in your possession. And **hand draw** a supply chain for it. Try and include impacts on people planet and profit.&#x20;
 
 {% tabs %}
