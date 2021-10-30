@@ -4,7 +4,7 @@ description: >-
   and waste efficient as possible.
 ---
 
-# 4. One Sheet
+# 〰 Brief: One Sheet
 
 ### **Using one sheet of material, design a product to be as simple, cost-effective and waste efficient as possible.**
 

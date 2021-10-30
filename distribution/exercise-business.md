@@ -4,7 +4,7 @@ description: >-
   Planet and Profit.
 ---
 
-# Business models
+# 〰 Business models
 
 ## :dart: **Invitation**
 
@@ -47,7 +47,7 @@ They can exist for the benefit of the community
 
 The effect that a business has on the world
 
-We can understand this through the idea of impact on [People, Planet, Profit](../distribute/people-planet-profit.md)
+We can understand this through the idea of impact on [People, Planet, Profit](../direction/people-planet-profit.md)
 
 1. **People:** How you employ people, how your business activity affects a community. How the business is owned - employee-owned?
 2. ** Planet: **The environmental impact of your manufacturing or other business activities such as transport. Planting trees, carbon or biodiversity offsetting.
@@ -58,8 +58,8 @@ We can understand this through the idea of impact on [People, Planet, Profit](..
 1.
 2. Read this section top to bottom first
 3. Do the [Type Suitability activity](exercise-business.md#type-suitability-activity)
-4. Do the [Colour Palette activity](../session-2/your-graphic-identity.md#colour-palette-activity)
-5.  Do the [Manifesto activity](../session-2/your-graphic-identity.md#making-your-manifesto)
+4. Do the [Colour Palette activity](../direction/your-graphic-identity.md#colour-palette-activity)
+5.  Do the [Manifesto activity](../direction/your-graphic-identity.md#making-your-manifesto)
 
 
 {% endtab %}

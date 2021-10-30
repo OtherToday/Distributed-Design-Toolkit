@@ -2,7 +2,7 @@
 description: Divergent thinking and research
 ---
 
-# 2. Pecha Kucha/ Loose Associations
+# 〰 Divergent research
 
 ### Loose Associations
 

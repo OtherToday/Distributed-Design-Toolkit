@@ -5,7 +5,7 @@ description: >-
   basic hook.
 ---
 
-# Plastic Kitchen
+# 〰 Project: Plastic Kitchen
 
 ![image](https://wikifactory.com/files/RmlsZTo0NzIxMjk=)
 
