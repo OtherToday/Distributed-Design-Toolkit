@@ -7,14 +7,14 @@
 
 ## 🎯 Direction
 
-* [〰 Supply Chain of Me](direction/supply-chain-of-me.md)
+* [〰 Orientation](direction/orientation.md)
+* [〰 Vision Setting](direction/orientation-and-beginning-the-journey.md)
 * [〰 Finding Purpose](direction/exercise-start-with-why.md)
 * [〰 Design Identity](direction/your-graphic-identity.md)
 * [Make your space!](direction/create-your-home-workshop.md)
 * [Planning for Uncertainty](direction/tolerance-of-uncertainty.md)
 * [People, Planet, Profit](direction/people-planet-profit.md)
 * [The UN Sustainable Development Goals (SDGs)](direction/the-un-sustainable-development-goals-sdgs.md)
-* [Exercise: Visioning a hopeful future](direction/orientation-and-beginning-the-journey.md)
 * [Futures](direction/futures/README.md)
   * [Hype Cycle](direction/futures/hype-cycle.md)
   * [Drivers of Change](direction/futures/drivers-of-change.md)

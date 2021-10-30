@@ -4,7 +4,7 @@ description: >-
   connection to this work. Essentially it asks ‘why are we all here?’
 ---
 
-# Exercise: Visioning a hopeful future
+# 〰 Vision Setting
 
 ## Contents
 
