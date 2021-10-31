@@ -1,12 +1,6 @@
----
-description: >-
-  This activity is a great opportunity to get to know yourself and those around
-  you
-cover: ../.gitbook/assets/git_header (2).png
-coverY: 0
----
-
 # 〰 Orientation
+
+> This activity is a great opportunity to get to know yourself and those around you
 
 ## ​🎯**Invitation**
 
