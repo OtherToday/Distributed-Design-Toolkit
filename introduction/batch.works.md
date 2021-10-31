@@ -8,24 +8,15 @@ coverY: 0
 
 # 🏭    Supply Chains
 
-## Contents
-
-1. [Invitation](batch.works.md#invitation)
-2. [Who are Batch Works?](batch.works.md#who-are-batch-works)
-3. [Glossary](batch.works.md#introduction)
-4. [Case Study: Batch.shield visor](batch.works.md#case-study-batch.shield-visor)
-5. [Exercise: Pen pot supply chains](batch.works.md#exercise-pen-pot-supply-chains)
-6. [Resources](batch.works.md#resources)
-
 ## ​🎯Invitation
 
 By understanding how Batch.works operates, you can start to comprehend supply chains. By doing an exercise comparing several objects manufactured in different ways, you will start to understand the complexity of supply chains and manufacture.
 
 &#x20;Start by looking at the three tabs below.
 
-{% tabs %}
-{% tab title="Inspiration" %}
-## **♻️🛠 Who are Batch.works?**
+### Inspiration
+
+**♻️🛠 Who are Batch.works?**
 
 ![Julien and Milo from Batch.works](<../.gitbook/assets/london (1).jpg>)
 
@@ -38,44 +29,28 @@ Batch.works is demonstrating to larger incumbent design and manufacture business
 {% embed url="https://batch.works" %}
 Batch.works website
 {% endembed %}
-{% endtab %}
 
-{% tab title="Purpose" %}
+### Purpose
+
 Every object has its own story of how it was made. Raw materials were obtained, processed and transported to other locations, where further processing happened depending on the product being made. Each of these stages required water, energy, people, chemicals or other inputs. Many of these stages created waste. By looking at the story of each object, you can start to understand the impact that each object makes, and learn how to design in a more creative and efficient way.
-{% endtab %}
 
-{% tab title="To Do" %}
-1. Read this page from top to bottom
-2. Do the Pen Pot exercise
-3. Look at other object you see around you now and consider how they are made
-{% endtab %}
-{% endtabs %}
+### To Do
+
+* Read this page from top to bottom
+* Do the Pen Pot exercise
+* Look at other object you see around you now and consider how they are made
 
 ## :package: Glossary
 
 What are the core elements of Distributed Design?
 
-{% tabs %}
-{% tab title="Supply Chain" %}
-A **supply chain** is a system of individuals, organisations or activities that together make up the production of a product or service from raw material to delivery. Understanding how supply chains work is key to unpicking the complex system of how things are made.
-{% endtab %}
-
-{% tab title="Additive" %}
-**Additive manufacture** is any process that forms material with little or no waste. This can be compared to subtractive manufacture where material is removed in order to form products or components. **3D printing is an additive process**
-{% endtab %}
-
-{% tab title="Digital Tools " %}
-Using **digital manufacturing** tools like **3D printing** and **CNC Machining** it is possible to send digital files around the world and easily make objects locally. This reduces the need for lengthy global supply chains and makes it possible to keep track of material once it has left the factory.
-{% endtab %}
-
-{% tab title="DFM" %}
-**DFM/DFD Design for manufacture/Design for distribution **are core principles of Distributed Design. Ideas about how and where a product will be produced, used (and eventually reused and recycled) must be considered from the very beginning of the design process.&#x20;
-{% endtab %}
-
-{% tab title="Customisation" %}
-When objects are made locally to their market using digital tools it is very easy to customise them. Traditional manufacture requires expensive set-up costs and tooling but with Distributed Design these upfront investments are minimal. This means that products can be tested with small production runs and little waste. Products can then easily be updated as areas for improvement are identified, and customised for different clients.
-{% endtab %}
-{% endtabs %}
+| Term                | Definition                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Supply Chain**    | A **supply chain** is a system of individuals, organisations or activities that together make up the production of a product or service from raw material to delivery. Understanding how supply chains work is key to unpicking the complex system of how things are made.                                                                                                                                                                         |
+| **Additive**        | **Additive manufacture** is any process that forms material with little or no waste. This can be compared to subtractive manufacture where material is removed in order to form products or components. **3D printing is an additive process**                                                                                                                                                                                                     |
+| **DFM**             | **DFM/DFD Design for manufacture/Design for distribution **are core principles of Distributed Design. Ideas about how and where a product will be produced, used (and eventually reused and recycled) must be considered from the very beginning of the design process.                                                                                                                                                                            |
+| **Customisation**   | When objects are made locally to their market using digital tools it is very easy to customise them. Traditional manufacture requires expensive set-up costs and tooling but with Distributed Design these upfront investments are minimal. This means that products can be tested with small production runs and little waste. Products can then easily be updated as areas for improvement are identified, and customised for different clients. |
+| ** Digital Tools ** | Using **digital manufacturing** tools like **3D printing** and **CNC Machining** it is possible to send digital files around the world and easily make objects locally. This reduces the need for lengthy global supply chains and makes it possible to keep track of material once it has left the factory.                                                                                                                                       |
 
 
 
