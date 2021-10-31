@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
 
-# 📷 Documenting + Sharing
+# 📷 Document + Share
 
 ## Contents
 
@@ -66,7 +66,15 @@ The purpose of this section of the toolkit is&#x20;
 {% endtab %}
 {% endtabs %}
 
-## Introduction to Product Photography
+## &#x20;✏Activity: Product Photography
+
+### - Part 1
+
+In groups research the key words in this Miro board. Be prepared to teach your peers about the terms.&#x20;
+
+{% embed url="https://miro.com/app/board/o9J_lmtI5rg=?invite_link_id=894671888078" %}
+
+### - Part 2
 
 These three videos are designed to provide an introduction to product photography for absolute beginners. By experimenting with household items, we find ways of staging and lighting products to get pretty good results without spending any money.
 
@@ -78,17 +86,17 @@ There are also some ideas on how to take your lighting to the next level. Once y
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=8si9M_9NWOg" %}
 
-## Platforms for sharing your work.
+## &#x20;🕸 Platforms for sharing your work.
+
+{% embed url="https://wikifactory.com/" %}
+
+{% embed url="https://www.instructables.com/" %}
 
 {% embed url="https://github.com/" %}
 
 {% embed url="https://www.thingiverse.com/" %}
 
-{% embed url="https://www.instructables.com/" %}
-
-{% embed url="https://wikifactory.com/" %}
-
-## Some nice documentation examples
+## &#x20;👀Some nice documentation examples
 
 {% embed url="http://www.jacobstanton.com/3d-printed-hand-screw-clamp" %}
 This is a great example that shows technical development of a project prototype.
@@ -112,7 +120,7 @@ Storytelling (integrating different media to communicate a design proposition) K
 This short, fun read is a manifesto for _why_ you should document your work, and a non-technical guide on _how_.
 {% endembed %}
 
-####
+
 
 ## Andrew's Plotter Project
 
@@ -122,7 +130,7 @@ This pen plotter was designed to be a replicable project, distributed through DI
 
 {% embed url="https://www.youtube.com/watch?v=Z99n9q5OYKk" %}
 
-## Making and Prototyping Resources for Designers
+## 📝 Making and Prototyping Resources for Designers
 
 {% embed url="https://docs.google.com/document/d/1z9LTUSnsCzg3ukG-GRQVC3w-OHYxJg1u88qn6yv2NTU/edit#heading=h.m6m64wyno28o" %}
 

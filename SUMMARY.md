@@ -19,13 +19,12 @@
 * [🔬 Experiment + Record](design/experiment-+-record.md)
 * [〰 Design Context](design/design-context.md)
 * [〰 Divergent research](design/loose-associations.md)
-* [Ideation (Raf)](design/ideation.md)
+* [〰 Ideation](design/ideation.md)
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
 * [〰 Technology](design/technology.md)
 
 ## 📦 Distribution
 
 * [〰 Business models](distribution/exercise-business.md)
-* [📷 Documenting + Sharing](distribution/documenting-your-work-1.md)
+* [📷 Document + Share](distribution/documenting-your-work-1.md)
 * [〰 Project: Plastic Kitchen](distribution/plastickitchen.md)
-* [Sharing](distribution/sharing.md)
