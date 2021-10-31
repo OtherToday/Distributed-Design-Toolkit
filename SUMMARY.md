@@ -21,8 +21,7 @@
 * [〰 Divergent research](design/loose-associations.md)
 * [Ideation (Raf)](design/ideation.md)
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
-* [〰 Brief: Modify](design/brief-modify.md)
-* [Technology](design/technology.md)
+* [〰 Technology](design/technology.md)
 
 ## 📦 Distribution
 

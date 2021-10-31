@@ -50,10 +50,6 @@ Inspiration video by designer Rafael El Baz from GoodWaste
 {% tab title="Material" %}
 The object should be made out of one, standard sized sheet, that is commonly available and compatible with appropriate machinery. You can make (or grow) this sheet yourself, find it or purchase it but you will need to account for its origin and display the waste (if any) alongside it. NO MDF and avoid international shipping (Amazon). Consider the restrictions we are under due to covid - where & what can you make? What materials can you source in spite of compromised supply chains (there is a world-wide acrylic shortage for example)
 
-
-
-
-
 ![image](https://wikifactory.com/files/RmlsZTo0NTk4NTU=)
 
 Protohaven - proto-shield facemask [https://www.protohaven.org/proto-shield/](https://www.protohaven.org/proto-shield/)
@@ -72,16 +68,12 @@ In addition to your sheet you can use appropriate fixings and components like wi
 {% endtab %}
 
 {% tab title="Scale" %}
+Your object when disassembled should fit through a standard uk letter box - 254mm x 38mm
 
-
-our object when disassembled should fit through a standard uk letter box - 254mm x 38mm![](https://wikifactory.com/files/RmlsZToyNzQxOTY=)
+![This is up to you; using your preferred design research strategy (loose associations or other) rapidly identify possible objects and techniques relevant to your interest area. Document this ideation visually as a divergent spider diagram in Miro.](https://wikifactory.com/files/RmlsZToyNzQxOTY=)
 {% endtab %}
 
 {% tab title="Design" %}
-
-
-This is up to you; using your preferred design research strategy (loose associations or other) rapidly identify possible objects and techniques **relevant to your interest area**. Document this ideation visually as a divergent spider diagram in Miro.
-
 ​
 
 ![image](https://wikifactory.com/files/RmlsZToyNzQxOTk=)
