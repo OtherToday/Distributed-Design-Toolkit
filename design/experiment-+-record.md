@@ -17,9 +17,15 @@ coverY: 0
 
 ## 🎯 Invitation <a href="invitation" id="invitation"></a>
 
-Take inspiration from the work of Zoe Powell to develop experimental practice.&#x20;
+The tools of Distributed Design are ambivalent to the materials put in them.&#x20;
 
-Start by looking at the three tabs below
+Proprietary or industrial standard sheets, filaments and blocks can be replaced by materials that we can find and make locally.&#x20;
+
+When creating or using new materials we need to be able to repeat our results. The purpose of this toolkit is to introduce the designer to basic scientific recording techniques.&#x20;
+
+These tools are not only useful in material testing but in all experimentation within design.
+
+Take inspiration from the work of Zoe Powell to develop experimental practice.&#x20;
 
 {% tabs %}
 {% tab title="Inspiration" %}
@@ -40,10 +46,6 @@ She is an Advisory Board member for the [British Council Creative Hubs](https://
 {% embed url="http://www.zoepowell.com" %}
 {% endtab %}
 
-{% tab title="Purpose" %}
-The tools of Distributed Design are ambivalent to the materials put them and proprietry or industrial standard sheets, filaments and blocks can be replaced by materials we can find and make locally. When creating or using new materials we need to be able to repeat our results. The purpose of this toolkit is to introduce the designer to basic scientific recording techniques. These tools are not only useful in material testing but in all experimentation within design.
-{% endtab %}
-
 {% tab title="To Do" %}
 1. Read this section top to bottom first
 2. Do the [Lab book activity](experiment-+-record.md#type-suitability-activity)
@@ -53,9 +55,13 @@ The tools of Distributed Design are ambivalent to the materials put them and pro
 
 ## 👀 Overview
 
-### Glossary
-
 {% tabs %}
+{% tab title="Overview" %}
+
+
+{% embed url="https://drive.google.com/file/d/15CKc7MwH709yGm2h6spXHce0lnXm5pss/view?usp=sharing" %}
+{% endtab %}
+
 {% tab title="Lab book" %}
 A lab book is a notebook that is used to record research that you have done i.e. primary research (as opposed to research that others have done, secondary research)
 {% endtab %}
@@ -73,61 +79,21 @@ An experiment is an official or established way of discovering or testing or dem
 {% endtab %}
 {% endtabs %}
 
-{% tabs %}
-{% tab title="Analysis" %}
-
-{% endtab %}
-
-{% tab title="Data" %}
-
-{% endtab %}
-
-{% tab title="Hypothesis" %}
-
-{% endtab %}
-
-{% tab title="Quantitative" %}
-
-{% endtab %}
-
-{% tab title="Qualitative" %}
-
-{% endtab %}
-{% endtabs %}
-
-## ✏Create a Lab book
+## ✏ Activity: Create a Lab book
 
 {% embed url="https://miro.com/app/board/o9J_lpCl8A4=?invite_link_id=762418024056" %}
 
-## Downloads 📚
+## 📚 Downloads&#x20;
 
 #### Lab books - basic and detailed templates for DD Toolkit
 
-{% file src="../.gitbook/assets/LBBK .pdf" %}
+{% embed url="https://drive.google.com/file/d/1jV0dGo17nP0PIfFKJhOTmdzR92W1ubSQ/view?usp=sharing" %}
 
-#### Lab book templates x5 - ZPB
+#### Lab book templates x 5&#x20;
 
-{% file src="../.gitbook/assets/ZBP - Lab Book - Layouts x5.pdf" %}
 Here are 5 variations of lab book templates. These were inspired by real examples of lab book pages and digital templates. (Special thank you to Matthew Edwards, Mathew Gale and Tshepo Mangoele for sharing their lab book pages)
-{% endfile %}
 
-#### Material Exploration - Lab books -  Further reading ( VERSION 1 TO EDIT )
-
-{% file src="../.gitbook/assets/Lab book.pdf" %}
-
-#### Biobox Lab sheets \_ Sarah King
-
-{% file src="../.gitbook/assets/BioBox Lab Sheet.pdf" %}
-This is the original BioBox template. It was first used to record  experiments by participants taking part during the pandemic
-{% endfile %}
-
-#### Biomaterial template \_ Nina Havermans
-
-{% file src="../.gitbook/assets/biomaterial lab template_nina havermans.pdf" %}
-This template was contributed and created by Nina who uses it for her own research as well as during workshops with students
-{% endfile %}
-
-
+{% embed url="https://drive.google.com/file/d/1NyVKRAcrNu1z-9A0SX3lfJPkGpvf8VKI/view?usp=sharing" %}
 
 ## 📔References&#x20;
 
@@ -192,7 +158,23 @@ Fabricademy is a transdisciplinary course that focuses on the development of new
 
 {% endtab %}
 
-{% tab title="Etc..." %}
+{% tab title="Templates" %}
+{% file src="../.gitbook/assets/ZBP - Lab Book - Layouts x5.pdf" %}
+
+#### Biomaterial template \_ Nina Havermans
+
+{% file src="../.gitbook/assets/biomaterial lab template_nina havermans.pdf" %}
+This template was contributed and created by Nina who uses it for her own research as well as during workshops with students
+{% endfile %}
+
+#### Biobox Lab sheets \_ Sarah King
+
+{% file src="../.gitbook/assets/BioBox Lab Sheet.pdf" %}
+This is the original BioBox template. It was first used to record  experiments by participants taking part during the pandemic
+{% endfile %}
+
+{% file src="../.gitbook/assets/LBBK .pdf" %}
+
 
 {% endtab %}
 {% endtabs %}

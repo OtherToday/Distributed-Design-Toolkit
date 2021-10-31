@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
 
-# 🏭 Supply Chains
+# 🏭    Supply Chains
 
 ## Contents
 
@@ -50,8 +50,6 @@ Every object has its own story of how it was made. Raw materials were obtained, 
 3. Look at other object you see around you now and consider how they are made
 {% endtab %}
 {% endtabs %}
-
-
 
 ## :package: Glossary
 
@@ -98,6 +96,8 @@ Batch.works worked with local hospitals to produce an efficient PPE mask that wa
 ## 🚚 ⛓Exercise: Pen Pot Supply Chains
 
 This exercise is to help you start to understand supply chains. Using the Miro template below, look at each object and see if you can determine how and where each object is made, and start to build its supply chain.&#x20;
+
+![](<../.gitbook/assets/Screenshot 2021-10-31 3.22.09 AM.png>)
 
 {% embed url="https://miro.com/app/board/o9J_luX66o8=?invite_link_id=470847652198" %}
 Needs to be redone

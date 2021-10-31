@@ -58,7 +58,7 @@ It should be noted that in 2018 John Elkington [recalled the model](https://john
 
 
 
-It was supposed to provoke deeper thinking about capitalism and its future - ots goal was **system change **— pushing toward the transformation of capitalism.  However It ended up being misused by corporations as a green washing tool.&#x20;
+It was supposed to provoke deeper thinking about capitalism and its future - ots goal was **system change **— pushing toward the transformation of capitalism.  However It ended up being misused by corporations as a [green washing](https://en.wikipedia.org/wiki/Greenwashing) tool.&#x20;
 
 
 
