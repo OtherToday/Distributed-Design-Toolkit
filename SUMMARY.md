@@ -19,7 +19,6 @@
 * [🔬 Experiment + Record](design/experiment-+-record.md)
 * [〰 Design Context](design/design-context.md)
 * [〰 Divergent research](design/loose-associations.md)
-* [〰 Immersive research](design/design-probes-milo.md)
 * [Ideation (Raf)](design/ideation.md)
 * [〰 Brief: One Sheet](design/one-sheet-2.md)
 * [〰 Brief: Modify](design/brief-modify.md)

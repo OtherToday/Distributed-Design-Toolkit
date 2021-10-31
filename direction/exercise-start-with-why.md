@@ -73,7 +73,7 @@ The first part of this workshop asks students to take a                         
 {% tab title="WHAT" %}
 Open Desk sells beautiful cnc cut plywood office furniture
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 {% endtab %}
 
 {% tab title="HOW" %}

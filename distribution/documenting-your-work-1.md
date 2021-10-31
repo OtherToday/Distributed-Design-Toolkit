@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
 
-# 📷 Documenting your work
+# 📷 Documenting + Sharing
 
 ## Contents
 
@@ -128,7 +128,7 @@ This pen plotter was designed to be a replicable project, distributed through DI
 
 
 
-![](<../.gitbook/assets/image (31) (1).png>)
+![](<../.gitbook/assets/image (31) (1) (1).png>)
 
 
 
