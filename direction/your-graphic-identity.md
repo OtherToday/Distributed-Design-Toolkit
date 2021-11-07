@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/git_header (3).png
 coverY: 0
 ---
 
-# 📢 Manifesto + Identity
+# Manifesto + Identity
 
 ## Contents
 
@@ -217,6 +217,10 @@ This exercise is to help you pick a suitable colour palette for yourself. Using 
 Creating a manifesto is a great way to not only express your approach as a designer, but to establish your graphic identity and explore the relationship between the two. &#x20;
 
 Using the copy you've already developed in the [Start with Why](exercise-start-with-why.md) exercise, as well as the typefaces and colour scheme you picked earlier, compile them all together to make your very own manifesto. You can see a Pinterest board of Manifesto examples for inspiration further down this page.
+
+{% embed url="https://www.ronen-kadushin.com/open-design-manifesto" %}
+
+{% embed url="http://opendesignnow.org/index.html%3Fp=317.html" %}
 
 {% embed url="https://miro.com/app/board/o9J_lcpB2HM=/?invite_link_id=565027284694" %}
 
